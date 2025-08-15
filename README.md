@@ -3,7 +3,7 @@
 
 **FoodFrenzy** is a dynamic and user-friendly online food ordering platform that brings the convenience of restaurant dining directly to your doorstep. It provides customers with a seamless experience to browse menus, place orders, and give real-time ratings. At the same time, it empowers restaurant owners to efficiently manage their menus and orders, ensuring smooth operations and timely food delivery.
 
----
+
 
 ## Key Features
 
@@ -14,7 +14,7 @@
 - **Role-Based Access Control**: Separate dashboards and permissions for admins and users.
 
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +23,7 @@
 - **Database**: MySQL
 - **Build Tool**: Maven
 
----
+
 
 
 
